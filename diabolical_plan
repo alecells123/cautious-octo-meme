@@ -1,18 +1,42 @@
 Computational problem solving
-- break it down
+- understand
 - visualize
-- separate core and extra
+- methodize
+- implement
+- assess
 
-What is programming
-- languages
+Coding basics (in Python)
+- shell
+- variables
+- data types
+- conditionals
+- loops
+- lists
+- dictionaries
 
-Coding basics
-- 
+Project management
+- projects
+- kanban
+- tasks (cases, issues)
+- sprints
+- timelines
 
-Collaboriation
-- github
-- workflow
+Github (source control)
+  - repositories (repos)
+  - folders (directories)
+  - files
+  - branches
+  - adding
+  - committing
+  - pushing
+  - pull requests
+  - merging
+  - pulling
+  
+Gitkraken (source control visualizer / project manager)
 - cases(issues)
+
+Terminals
 
 Computer science
 
@@ -22,6 +46,8 @@ Game engines
 - systems
 - computer graphics
 - artificial intelligence
+
+Computer systems
 
 Design
 - human computer interaction
