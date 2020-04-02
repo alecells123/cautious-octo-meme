@@ -33,8 +33,10 @@ Github (source control)
 - merging
 - pulling
   
-Gitkraken (source control visualizer / project manager)?
+Gitkraken (source control visualizer / project manager)
 - cases(issues)
+- glo
+- kanban
 
 Terminals
 - structure
@@ -45,6 +47,8 @@ Computer science
 Data structures and algorithms
 
 Computer systems
+
+Sequel and Databases
 
 Game engines
 - systems
