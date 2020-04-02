@@ -22,32 +22,34 @@ Project management
 - timelines
 
 Github (source control)
-  - repositories (repos)
-  - folders (directories)
-  - files
-  - branches
-  - adding
-  - committing
-  - pushing
-  - pull requests
-  - merging
-  - pulling
+- repositories (repos)
+- folders (directories)
+- files
+- branches
+- adding
+- committing
+- pushing
+- pull requests
+- merging
+- pulling
   
-Gitkraken (source control visualizer / project manager)
+Gitkraken (source control visualizer / project manager)?
 - cases(issues)
 
 Terminals
+- structure
+- commands
 
 Computer science
 
 Data structures and algorithms
 
+Computer systems
+
 Game engines
 - systems
 - computer graphics
 - artificial intelligence
-
-Computer systems
 
 Design
 - human computer interaction
