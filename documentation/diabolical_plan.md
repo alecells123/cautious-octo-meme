@@ -1,25 +1,34 @@
-Habits and common knowledge of a programmer
+# Diabolical Plan 1.0
+
+## Habits and common knowledge of a programmer
+
 - use shortcuts, avoid mouse
+- have a mouse and keyboard
+- have multiple monitors
 - internet explorer is evil
 - follow r/ProgrammerHumor
 - file organization
-- mulitiple desktops
+- multiple desktops
 - pushups and coffee
 - we start from 0
+- keep your startup folder clean
 
-Computational problem solving
+## Computational problem solving
+
 - understand
 - visualize
 - methodize
 - implement
 - assess
 
-Basics and setup
+## Basics and setup
+
 - languages
 - IDEs
 - VS Code
 
-Coding basics (in Python)
+## Coding basics (in Python)
+
 - shell
 - variables
 - data types
@@ -28,11 +37,13 @@ Coding basics (in Python)
 - lists
 - dictionaries
 
-Terminals
+## Terminals
+
 - structure
 - commands
 
-Project management
+## Project management
+
 - projects
 - agile vs waterfall
 - check-ins
@@ -41,7 +52,8 @@ Project management
 - sprints
 - timelines
 
-Github (source control)
+## Github (source control)
+
 - repositories (repos)
 - folders (directories)
 - files
@@ -54,33 +66,39 @@ Github (source control)
 - pulling
 - merge conflicts
 
-Gitkraken (source control visualizer / project manager)
+## Gitkraken (source control visualizer / project manager)
+
 - cases(issues)
 - glo
 - kanban
 
-Computer science
+## Computer science
+
 - recursion
 - objects
 - API
 
-Data structures and algorithms
+## Data structures and algorithms
+
 - linked list
 - tree
 - stack / queue
 - efficiencies
 - algorithms
 
-Computer systems
+## Computer systems
+
 - debugging
 
-Sequel and Databases
+## Sequel and Databases
 
-Game engines
+## Game engines
+
 - systems
 - computer graphics
 - artificial intelligence
 
-Design
+## Design
+
 - human computer interaction
 - game systems
