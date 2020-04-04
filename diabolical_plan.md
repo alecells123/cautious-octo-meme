@@ -12,7 +12,7 @@ Computational problem solving
 - assess
 
 Basics and setup
-- Languages
+- languages
 - IDEs
 - VS Code
 
