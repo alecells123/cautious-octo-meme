@@ -3,6 +3,7 @@ Habits and common knowledge of a programmer
 - internet explorer is evil
 - follow r/ProgrammerHumor
 - file organization
+- mulitiple desktops
 
 Computational problem solving
 - understand
