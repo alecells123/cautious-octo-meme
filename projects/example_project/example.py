@@ -1,0 +1,1 @@
+print("This sure is an example of a project main file, alright.")
