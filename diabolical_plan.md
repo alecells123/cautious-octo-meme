@@ -2,6 +2,7 @@ Habits and common knowledge of a programmer
 - use shortcuts, avoid mouse
 - internet explorer is evil
 - follow r/ProgrammerHumor
+- file organization
 
 Computational problem solving
 - understand
@@ -58,6 +59,7 @@ Gitkraken (source control visualizer / project manager)
 Computer science
 - recursion
 - objects
+- API
 
 Data structures and algorithms
 - linked list
