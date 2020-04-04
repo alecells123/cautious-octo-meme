@@ -5,6 +5,7 @@ Habits and common knowledge of a programmer
 - file organization
 - mulitiple desktops
 - pushups and coffee
+- we start from 0
 
 Computational problem solving
 - understand
