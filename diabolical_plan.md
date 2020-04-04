@@ -4,6 +4,7 @@ Habits and common knowledge of a programmer
 - follow r/ProgrammerHumor
 - file organization
 - mulitiple desktops
+- pushups and coffee
 
 Computational problem solving
 - understand
