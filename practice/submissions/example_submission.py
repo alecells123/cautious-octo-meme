@@ -1,0 +1,1 @@
+print("This sure is an example, alright.")
