@@ -1,9 +1,19 @@
+Habits and common knowledge of a programmer
+- use shortcuts, avoid mouse
+- internet explorer is evil
+- follow r/ProgrammerHumor
+
 Computational problem solving
 - understand
 - visualize
 - methodize
 - implement
 - assess
+
+Basics and setup
+- Languages
+- IDEs
+- VS Code
 
 Coding basics (in Python)
 - shell
@@ -14,8 +24,14 @@ Coding basics (in Python)
 - lists
 - dictionaries
 
+Terminals
+- structure
+- commands
+
 Project management
 - projects
+- agile vs waterfall
+- check-ins
 - kanban
 - tasks (cases, issues)
 - sprints
@@ -32,21 +48,26 @@ Github (source control)
 - pull requests
 - merging
 - pulling
-  
+- merge conflicts
+
 Gitkraken (source control visualizer / project manager)
 - cases(issues)
 - glo
 - kanban
 
-Terminals
-- structure
-- commands
-
 Computer science
+- recursion
+- objects
 
 Data structures and algorithms
+- linked list
+- tree
+- stack / queue
+- efficiencies
+- algorithms
 
 Computer systems
+- debugging
 
 Sequel and Databases
 
