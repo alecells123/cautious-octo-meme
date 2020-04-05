@@ -27,10 +27,17 @@ Always connect to GitHub whenever it asks!
 This is the programming language we will be using at first and for the majority of the projects. Sometimes there will be reasons to use others, but it will be rare and it is unlikely we will use them for a long time. Python is beautiful, easy to read and understand, and highly supported across devices and services. Learn to love it.
 
 - Install Python 3.8.2 from [here](https://www.python.org/downloads/release/python-382/). I used the Windows x86 executable installer.
+- **Add to PATH**
+
+## Download Git
 
 ## VS Code
 
 This is our code editing software. This is the software you will write, change, debug and test code in.
 
 - Install from [here](https://code.visualstudio.com/Download).
-- Add Python extension ms-python.python
+- Add Python extension Python ms-python.python
+- Add markdownlint davidanson.vscode-markdownlint
+- Add Code Spell Checker streetsidesoftware.code-spell-checker
+- Install pylint
+- Install PythonTest thingy

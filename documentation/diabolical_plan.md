@@ -5,7 +5,7 @@
 - use shortcuts, avoid mouse
 - have a mouse and keyboard
 - have multiple monitors
-- internet explorer is evil
+- internet and safari explorer is evil
 - follow r/ProgrammerHumor
 - file organization
 - multiple desktops
@@ -24,7 +24,7 @@
 ## Basics and setup
 
 - languages
-- IDEs
+- IDEs vs Coding Editors
 - VS Code
 
 ## Coding basics (in Python)
