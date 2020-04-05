@@ -1,4 +1,5 @@
-Habits and common knowledge of a programmer
+# Habits and common knowledge of a programmer
+
 - use shortcuts, avoid mouse
 - internet explorer is evil
 - follow r/ProgrammerHumor
